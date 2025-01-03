@@ -2,6 +2,9 @@
 
 Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite listar produtos na tela, buscar produtos consumindo a API do Mercado Livre, adicionar produtos e remover produtos do carrinho.
 
+<br>
+ <img align="center" src="src/assets/img/print_shoppingcart.jpg" />
+
 ## Funcionalidades
 
 - Listagem de produtos: exibe uma lista de produtos obtidos da API do Mercado Livre.

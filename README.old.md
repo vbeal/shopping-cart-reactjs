@@ -15,3 +15,7 @@ Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite
 - HTML5: linguagem de marcação para estruturar o conteúdo da aplicação.
 - CSS3: linguagem de estilo para estilizar a interface do usuário.
 - API do Mercado Livre: utilizada para obter dados de produtos.
+
+## Modelo pronto Online:
+
+https://shopping-cart-black-three.vercel.app/

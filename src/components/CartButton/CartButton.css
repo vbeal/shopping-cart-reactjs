@@ -1,5 +1,5 @@
-.cart_button{
-  font-size:  1.5rem;
+.cart__button {
+  font-size: 1.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,20 +9,21 @@
   cursor: pointer;
   position: relative;
   margin-left: 20px;
-  color: #333333;
+  color: #333;
 }
 
-.cart_quantity{
+.cart-status {
+  background-color: red;
+  width: 15px;
+  height: 15px;
   position: absolute;
-  top: -5px;
-  right: -5px;
-  background-color: #e66c6c;
+  top: 0;
+  left: 0;
   color: white;
-  border-radius: 50%;
-  width: 20px;
-  height: 20px;
+  font-size: 11px;
+  font-weight: 600;
+  border-radius: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.8rem;
 }
